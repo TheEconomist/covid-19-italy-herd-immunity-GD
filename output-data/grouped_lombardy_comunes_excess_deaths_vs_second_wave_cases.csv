@@ -1,0 +1,8 @@
+country,region,region_code,grouped_excess_deaths,comunes,second_wave_cases_per_100k
+Italy,Lombardy,3,0.0_or_less,102,411.666812647806
+Italy,Lombardy,3,0.0_to_0.1,169,569.498755776751
+Italy,Lombardy,3,0.1_to_0.2,256,711.609787259009
+Italy,Lombardy,3,0.2_to_0.3,191,474.133881221374
+Italy,Lombardy,3,0.3_to_0.4,146,335.686745571077
+Italy,Lombardy,3,0.4_to_0.5,110,270.408668935214
+Italy,Lombardy,3,0.5_or_more,292,215.68981995712

@@ -1,0 +1,18 @@
+For sero-prevalence by age, see abstract or table 1B of the following study:
+Seroprevalence of SARS-CoV-2 significantly varies with age: results from a mass population screening
+
+By: Gabriele Pagani, Federico Conti, Andrea Giacomelli, Dario Bernacchia, Rossana Rondanin, Andrea Prina, Vittore Scolari, Cecilia Eugenia Gandolfi, Silvana Castaldi, Giuseppe Marano, Cosimo Ottomano, Patrizia Boracchi, Elia Mario Biganzoli, Massimo Galli
+
+link: https://www.medrxiv.org/content/10.1101/2020.06.24.20138875v2
+
+For health-care workers, see figure 1A and compare with 7.5% for Lombardy generally, and 24% for Bergamo specifically (in both cases much higher in this study of health care workers):
+
+IgG serology in health care and administrative staff populations from 7 hospital representative of different exposures to SARS-CoV-2 in Lombardy, Italy
+
+Maria Teresa Sandri, Elena Azzolini, Valter Torri, Sara Carloni, Michele Tedeschi, Massimo Castoldi, Alberto Mantovani, Maria Rescigno
+
+*** 
+
+It is worth noting that both findings are not unique to Lombardy or Italy. The relation between age and seropositivity is also found in e.g. Spain. Healthcare workers have higher seropositivity rates pretty much everywhere.
+
+We thank these researchers and others for their efforts in mapping seroprevalence in these places and throughout Italy.
