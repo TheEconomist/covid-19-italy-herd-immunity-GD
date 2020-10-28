@@ -1,2 +1,3 @@
 # Auto detect text files and perform LF normalization
 * text=auto
+source-data/italy-excess-deaths/italy_total_source_2020_06_30.csv filter=lfs diff=lfs merge=lfs -text
